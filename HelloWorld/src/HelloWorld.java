@@ -7,5 +7,6 @@ public class HelloWorld {
 		System.out.println("Hello World 9999");
 		System.out.println("GitHub modify 8 line");
 		System.out.println("Local modifyed 8 line");
+		System.out.println("Pull modifyed 10 line");
 	}
 }
